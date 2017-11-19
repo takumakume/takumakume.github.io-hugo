@@ -5,4 +5,5 @@ linktitle: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 draft: false
 highlight: true
+tags: [""]
 ---

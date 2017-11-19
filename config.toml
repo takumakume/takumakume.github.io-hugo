@@ -1,6 +1,7 @@
 title                  = "takumakume pages"
 baseURL                = "/"
 DefaultContentLanguage = "ja"
+hasCJKLanguage = true
 
 theme               = "beautifulhugo"
 metaDataFormat      = "yaml"

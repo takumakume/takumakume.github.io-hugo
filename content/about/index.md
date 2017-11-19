@@ -28,5 +28,5 @@ date: 2017-11-18T00:00:00+09:00
 
 #### 2013
 
-- 07/18 DNS Summer Days 2013
+- 7/18 DNS Summer Days 2013
   - <u>[児童ポルノブロッキングの実装と運用自動化](https://speakerdeck.com/takumakume/implementation-and-operation-automation-of-child-porn-blocking)</u>
