@@ -7,7 +7,7 @@ theme               = "beautifulhugo"
 metaDataFormat      = "yaml"
 pygmentsUseClasses  = true
 pygmentCodeFences   = true
-#googleAnalytics     = "XXX"
+googleAnalytics     = "UA-109817270-1"
 #disqusShortname     = "XXX"
 
 [Params]
@@ -21,8 +21,8 @@ pygmentCodeFences   = true
 
 [Author]
   name        = "Takuma Kume"
-  website     = ""
-  email       = ""
+  website     = "https://takumakume.tech"
+  #email       = ""
   facebook    = "takumakume"
   github      = "takumakume"
   twitter     = "takumakume"
