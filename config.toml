@@ -11,7 +11,7 @@ googleAnalytics     = "UA-109817270-1"
 #disqusShortname     = "XXX"
 
 [Params]
-  subtitle = "linux/mruby/ngx_mruby/mod_mruby"
+  subtitle = ""
   logo = "img/profile.jpg"
   favicon = "img/favicon.ico"
   dateFormat = "2006-1-2"
