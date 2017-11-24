@@ -27,7 +27,7 @@ ngx_mruby + mruby-memcached + mruby-mysql 環境構築のエントリを投稿�
 
 ###### 具体的な構成と動作については以下のようになる。
 
-<img src="http://blog.konbu.link/wp-content/uploads/2016/05/ngx_mruby-rprx.001-300x225.jpeg" alt="ngx_mruby-rprx.001" width="1024" height="768" class="alignnone size-medium wp-image-205" />
+<img src="/img/2016-05-10/ngx_mruby.jpg" alt="ngx_mruby-rprx.001" width="1024" height="768" class="alignnone size-medium wp-image-205" />
 
 ### Use case
 

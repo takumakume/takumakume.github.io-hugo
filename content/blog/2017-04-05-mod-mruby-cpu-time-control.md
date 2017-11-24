@@ -16,7 +16,7 @@ tags: ["mruby", "mod_mruby"]
 
 具体的には以下のような制御を行いたい。
 
-<img src="http://blog.konbu.link/wp-content/uploads/2017/04/ru_limit.001-1024x768.jpeg" alt="" width="750" height="563" class="alignnone size-large wp-image-372" />
+<img src="/img/2017-04-05/ru_limit.jpg" alt="" width="750" height="563" class="alignnone size-large wp-image-372" />
 
 - 複数ドメイン環境下において、リクエスト毎に使われるCPU使用時間を元にサーバの負荷が高い場合にvhost単位の制限を行う。
   - サーバの負荷の判断はLoadAveを元に行う。
