@@ -11,7 +11,7 @@ tags: ["mruby", "mod_mruby"]
 ### はじめに
 
 こんばんは。GMOペパボの久米です。
-以前、「[CentOS6で ngx_mruby + mruby-memcached + mruby-mysql をインストールした。](http://blog.konbu.link/2016/04/11/centos6%E3%81%A7-ngx_mruby-mruby_memcache-mruby_mysql-%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%97%E3%81%9F%E3%80%82/)」という記事でプログラマブルに制御できるnginxの紹介をし、リバースプロキシの構築を行いました。
+以前、「[CentOS6で ngx_mruby + mruby-memcached + mruby-mysql をインストールした。](/blog/2016-04-11-try-install-ngx-mruby/)」という記事でプログラマブルに制御できるnginxの紹介をし、リバースプロキシの構築を行いました。
 
 本エントリでは、同様にプログラマブルに制御できるWEBサーバとしてApacheに [@matsumotory](https://twitter.com/matsumotory)さん が作成している、 [mod_mruby](https://github.com/matsumoto-r/mod_mruby) というモジュールを組み込みたいと思います。
 

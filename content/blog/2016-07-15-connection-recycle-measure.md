@@ -14,7 +14,7 @@ tags: ["mruby", "ngx_mruby"]
 そろそろ（最初から）雇用形態の話は面白くないので、これからのはじめの挨拶は何にしようか悩んでいます。
 
 さて、今回は以下で作った[ngx_mruby](https://github.com/matsumoto-r/ngx_mruby)の性能の検証をしようと思います。
-[ngx_mrubyでmemcachedやmysqldのコネクションを使いまわす](http://blog.konbu.link/2016/07/14/ngx_mruby_recycle_connection/)
+[ngx_mrubyでmemcachedやmysqldのコネクションを使いまわす](/blog/2016-07-14-connection-recycle/)
 
 ### 性能検証の目的
 

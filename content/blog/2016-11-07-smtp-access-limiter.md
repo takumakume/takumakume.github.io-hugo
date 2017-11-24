@@ -10,7 +10,7 @@ tags: ["mruby", "pmilter"]
 
 ### はじめに
 
-先日は 「[pmilter + postfixでプログラマブルなSMTPサーバを作る（入門編）](http://blog.konbu.link/2016/11/06/pmilter-start/)」の記事で[pmilter](https://github.com/matsumotory/pmilter)の環境構築を行いました。
+先日は 「[pmilter + postfixでプログラマブルなSMTPサーバを作る（入門編）](/blog/2016-11-06-install-pmilter/)」の記事で[pmilter](https://github.com/matsumotory/pmilter)の環境構築を行いました。
 本エントリでは、[pmilter](https://github.com/matsumotory/pmilter)を活用して実際にメールの通数を制御するソフトウェアを作成しました。
 
 [smtp-access-limiter](https://github.com/takumakume/smtp-access-limiter) (まだプロトタイプ)

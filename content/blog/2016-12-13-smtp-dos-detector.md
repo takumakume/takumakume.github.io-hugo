@@ -48,7 +48,7 @@ mruby_helo_handler = "handler/helo.rb"
 
 筆者はCentOS7で動作確認を行いました。セットアップについては以下のエントリをご参照ください。
 
-- [pmilter + postfixでプログラマブルなSMTPサーバを作る（入門編）](http://blog.konbu.link/2016/11/06/pmilter-start/)
+- [pmilter + postfixでプログラマブルなSMTPサーバを作る（入門編）](/blog/2016-11-06-install-pmilter/)
 
 ## pmilterでメールのDDoSを軽減する
 

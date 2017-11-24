@@ -13,8 +13,8 @@ tags: ["mruby", "ngx_mruby"]
 どうも、GMOペパボ　インフラエンジニア　正規雇用となりました久米です。
 
 以下のエントリでngx_mrubyを用いたリバースプロキシを構築しました。
-[CentOS6で ngx_mruby + mruby-memcached + mruby-mysql をインストール](http://blog.konbu.link/2016/04/11/centos6%E3%81%A7-ngx_mruby-mruby_memcache-mruby_mysql-%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%97%E3%81%9F%E3%80%82/)
-[ngx_mrubyで転送先を外部参照するリバースプロキシを構築する](http://blog.konbu.link/2016/05/10/ngx_mruby/)
+[CentOS6で ngx_mruby + mruby-memcached + mruby-mysql をインストール](/blog/2016-05-10-ngx-mruby-reverse-proxy/)
+[ngx_mrubyで転送先を外部参照するリバースプロキシを構築する](/blog/2016-04-11-try-install-ngx-mruby/)
 
 本エントリでは、ここまで作ってきたリバースプロキシの性能向上をするために
 以下のことを行います。

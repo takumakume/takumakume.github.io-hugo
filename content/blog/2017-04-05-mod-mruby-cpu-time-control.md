@@ -25,7 +25,7 @@ tags: ["mruby", "mod_mruby"]
 ### 実装にあたって使用する主なソフトウェア
 
 - [mod_mruby](https://github.com/matsumotory/mod_mruby) を導入した Apache (本エントリの内容は、おそらく [ngx_mruby](https://github.com/matsumotory/ngx_mruby) でも動作する)
-  - 詳しくは過去のエントリを御覧ください。 ([httpd + mod_mrubyでプログラマブルなWEBサーバを構築する](http://blog.konbu.link/2016/07/26/mod-mruby-install/))
+  - 詳しくは過去のエントリを御覧ください。 ([httpd + mod_mrubyでプログラマブルなWEBサーバを構築する](/blog/2016-07-26-install-mod-mruby/))
 - [mruby-resource](https://github.com/harasou/mruby-resource)
   - 今回は `getrusage(2)` の機能を利用した、CPU使用時間の取得を行うために利用します。
 

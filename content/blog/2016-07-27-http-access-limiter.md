@@ -12,7 +12,7 @@ tags: ["mruby", "mod_mruby"]
 
 こんばんは、GMOペパボの久米です。
 
-「[httpd + mod_mrubyでプログラマブルなWEBサーバを構築する](http://blog.konbu.link/2016/07/26/mod-mruby-install/)」というエントリを書きましたが、今回は [mod_mruby](https://github.com/matsumoto-r/mod_mruby) を使った、 [@matsumotory](https://twitter.com/matsumotory)さん が作成している [http-access-limiter](https://github.com/matsumoto-r/http-access-limiter) というリクエスト先ファイル単位での同時アクセス数を制御できるソフトウェアの導入と検証を行います。
+「[httpd + mod_mrubyでプログラマブルなWEBサーバを構築する](/blog/2016-07-26-install-mod-mruby/)」というエントリを書きましたが、今回は [mod_mruby](https://github.com/matsumoto-r/mod_mruby) を使った、 [@matsumotory](https://twitter.com/matsumotory)さん が作成している [http-access-limiter](https://github.com/matsumoto-r/http-access-limiter) というリクエスト先ファイル単位での同時アクセス数を制御できるソフトウェアの導入と検証を行います。
 
 レンタルサーバなど複数のドメインを収容している場合など、サーバの管理者が実行されるプログラムを制御出来ない、あるいはリクエスト数を想定できない時に以下のような運用課題が発生する。
 
@@ -25,7 +25,7 @@ tags: ["mruby", "mod_mruby"]
 
 ### 前提
 
-[httpd + mod_mrubyでプログラマブルなWEBサーバを構築する](http://blog.konbu.link/2016/07/26/mod-mruby-install/) で構築した環境を利用する。
+[httpd + mod_mrubyでプログラマブルなWEBサーバを構築する](/blog/2016-07-26-install-mod-mruby/) で構築した環境を利用する。
 
 ### 導入
 

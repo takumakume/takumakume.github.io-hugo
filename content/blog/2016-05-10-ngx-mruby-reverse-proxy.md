@@ -13,7 +13,7 @@ tags: ["mruby", "ngx_mruby"]
 ngx_mruby + mruby-memcached + mruby-mysql 環境構築のエントリを投稿しましたが、それを使ったリバースプロキシの構築についてまとめました。
 
 本エントリでは以下の手順で構築したngx_mruby環境上でリバースプロキシを構築するものですので、試したい方は以下も併せてご参照ください。
-[CentOS6で ngx_mruby + mruby-memcached + mruby-mysql をインストールした。](http://blog.konbu.link/2016/04/11/centos6%E3%81%A7-ngx_mruby-mruby_memcache-mruby_mysql-%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%97%E3%81%9F%E3%80%82/)
+[CentOS6で ngx_mruby + mruby-memcached + mruby-mysql をインストールした。](/blog/2016-04-11-try-install-ngx-mruby/)
 
 ### ngx_mrubyで転送先を外部参照するリバースWEBプロキシを構築するとは
 
