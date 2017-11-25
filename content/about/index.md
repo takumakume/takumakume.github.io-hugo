@@ -35,3 +35,9 @@
 - [2017-11-17 第10回ペパボテックカンファレンス～インフラエンジニアがもっとおもしろくできる！～を開催しました](https://tech.pepabo.com/2017/11/17/pbtech-10th-report/)
 - [2017-10-18 ペパボ・はてな技術大会〜インフラ技術基盤〜をペパボ福岡支社で開催しました！](https://tech.pepabo.com/2017/10/18/papabo-hatena-report/)
 - [2016-12-19 技術を共有し高め合う！ホスティング事業部でTech MTGを開催しました](https://tech.pepabo.com/2016/12/19/hosting-tech-mtg-report-01/)
+
+### Projects
+
+- [Collec](https://github.com/pepabo/collec)
+  - send message and remind app on slack
+  - powered by Ruby on Rails
