@@ -3,6 +3,13 @@
 - Infra engineer @GMO Pepabo, Inc
 - linux/mruby/ngx_mruby/mod_mruby
 
+### History
+
+- 2002年 - 2006年 [北九州市ロボカップ会](https://ja.wikipedia.org/wiki/%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E3%83%AD%E3%83%9C%E3%82%AB%E3%83%83%E3%83%97%E4%BC%9A) に所属し、自立型サッカーロボットの制作を行う。
+  - [2006年 ロボカップジュニアジャパンオープン大会 サッカーチャレンジ プライマリ部門 1位](http://www.robocupjunior.jp/award/award2006.html)
+  - [2006年 ロボカップジュニア世界大会ブレーメン サッカーチャレンジ プライマリ部門 1位](https://ja.wikipedia.org/wiki/%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E3%83%AD%E3%83%9C%E3%82%AB%E3%83%83%E3%83%97%E4%BC%9A)
+- 2010年 - 2016年 [株式会社QTnet](http://www.qtnet.co.jp/)
+
 ### Slides
 
 #### 2017
