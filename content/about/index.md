@@ -3,6 +3,17 @@
 - Infra engineer @GMO Pepabo, Inc
 - linux/mruby/ngx_mruby/mod_mruby
 
+### History
+
+- 2002年 北九州市ロボカップ会 入会
+  - チーム: デザイナーズ
+    - 2006年 [ロボカップジュニアジャパンオープン大会 サッカーチャレンジ プライマリ部門 1位](http://www.robocup.or.jp/2006JP/results/js_p_final.htm)
+    - 2006年 [ロボカップジュニアブレーメン世界大会 サッカーチャレンジ プライマリ部門 1位](https://goo.gl/BPsNLA)
+- 2010年 九州通信ネットワーク株式会社(現 株式会社QTnet) 入社
+  - Web, DNSサーバの構築、ネットワークの構築
+  - プリセールスエンジニア、Windows Server、VMwareを用いたハイパーバイザ・ストレージ構築
+- 2016年 GMOペパボ株式会社 入社
+
 ### Slides
 
 #### 2017
@@ -41,3 +52,5 @@
 - [Collec](https://github.com/pepabo/collec)
   - send message and remind app on slack
   - powered by Ruby on Rails
+
+<br />
