@@ -18,21 +18,23 @@
 
 #### 2017
 
-- 11/18 第10回ペパボテックカンファレンス
+- 12/16 [Kixs Vol.004](https://kixs.connpass.com/event/69643/)
+  - <u>[eBPF入門](https://speakerdeck.com/takumakume/ebpf-getting-started)</u>
+- 11/18 [第10回ペパボテックカンファレンス](https://pepabo.connpass.com/event/69866/)
   - <u>[Webサーバ拡張における排他制御のパフォーマンスチューニング](https://speakerdeck.com/takumakume/performance-tuning-of-exclusive-control-in-web-server-extension)</u>
-- 10/08 ペパボ・はてな技術大会
+- 10/08 [ペパボ・はてな技術大会](https://pepabo.connpass.com/event/65932/), 9/30 [Hosting Casual Talk 4](https://connpass.com/event/62208/)
   - <u>[ホスティングにおける安定運用のためのアクセスコントロール手法](https://speakerdeck.com/takumakume/mhadedetabesufalseyun-yong-wole-nisiyou-1)</u>
 - 4/26 ホスティング Tech MTG
   - <u>[MHAでデータベースの運用を楽にしよう！](https://speakerdeck.com/takumakume/hosuteinguniokeruan-ding-yun-yong-falsetamefalseakusesukontororushou-fa)</u>
 
 #### 2016
 
-- 10/29 GMO Hosting conference
+  - 10/29 [GMO Hosting conference](https://gmohoscon.connpass.com/event/41490/), 12/2 [Kixs Vol.002](https://kixs.connpass.com/event/43925/)
   - <u>[ホスティングにおける柔軟なアクセス制御の必要性とその実装](https://speakerdeck.com/takumakume/hoscon2016-shibuya-takumakume)</u>
 
 #### 2013
 
-- 7/18 DNS Summer Days 2013
+- 7/18 [DNS Summer Days 2013](https://dnsops.jp/event20130718.html)
   - <u>[児童ポルノブロッキングの実装と運用自動化](https://speakerdeck.com/takumakume/implementation-and-operation-automation-of-child-porn-blocking)</u>
 
 <style type="text/css">
