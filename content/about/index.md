@@ -2,6 +2,13 @@
 
 ### Slides
 
+#### 2018
+
+- 7/29 [July Tech Festa 2018](https://2018.techfesta.jp/)
+  - [200万ドメインを超えるレンタルサーバのコンテンツキャッシュの裏側](https://speakerdeck.com/takumakume/2-million-more-than-the-domain-the-back-of-the-rental-server-content-cache)
+- 6/17[PHP Conference Fukuoka 2018](http://phpcon.fukuoka.jp/2018/)
+  - <u>[DDoSとの終わりなき戦い](https://speakerdeck.com/takumakume/endless-battle-with-ddos-attack)</u>
+
 #### 2017
 
 - 12/16 [Kixs Vol.006](https://kixs.connpass.com/event/69643/)
